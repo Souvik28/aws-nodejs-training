@@ -69,3 +69,27 @@ Combination of `cloudfront:setup` and `cloudfront:build:deploy` commands with or
 ### `serverless:remove`
 
 Remove an entire stack configured in `serverless.yml` via CloudFormation.
+
+
+# `Task 2 (Serve SPA in AWS S3 and Cloudfront Services)`
+
+---
+
+## `Tasks`
+
+---
+
+### `Task 2.1`
+
+**Manual Deployment**
+
+1. After uploading in s3 bucket the app is available through internet over (https://aws-nodejs-training-react-shopping.s3.ap-south-1.amazonaws.com/index.html)
+
+2. The app is also available through the Internet over Cloudfront URL (https://dc4wf46s46crh.cloudfront.net/)
+
+
+**Automated Deployment**
+
+1. The app is available through the Internet over Cloudfront URL (https://d273287pk6tneh.cloudfront.net/) after configuring  _serverless_ and _serverless-finch_ plugin
+
+
