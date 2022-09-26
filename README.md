@@ -75,15 +75,11 @@ Remove an entire stack configured in `serverless.yml` via CloudFormation.
 
 ---
 
-## `Tasks`
-
----
-
 ### `Task 2.1`
 
 **Manual Deployment**
 
-1. After uploading in s3 bucket the app is available through internet over (https://aws-nodejs-training-react-shopping.s3.ap-south-1.amazonaws.com/index.html)
+1. After uploading in s3 bucket the app is available through internet over [This Link](https://aws-nodejs-training-react-shopping.s3.ap-south-1.amazonaws.com/index.html)
 
 2. The app is also available through the Internet over Cloudfront URL (https://dc4wf46s46crh.cloudfront.net/)
 
