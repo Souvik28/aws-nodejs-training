@@ -86,6 +86,6 @@ Remove an entire stack configured in `serverless.yml` via CloudFormation.
 
 **Automated Deployment**
 
-1. The app is available through the Internet over Cloudfront URL (https://d273287pk6tneh.cloudfront.net/) after configuring  _serverless_ and _serverless-finch_ plugin
+1. The app is available through the Internet over Cloudfront URL (https://d273287pk6tneh.cloudfront.net/) after configuring  _serverless_ and _serverless-finch_ plugin but not using s3 bucket url (https://my-store-app-aws-training-souvik-store.s3.ap-south-1.amazonaws.com/index.html)
 
 
